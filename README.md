@@ -6,7 +6,7 @@
 
 <style type="text/css">
  p {
-color: #0d0015;
+color: #f0f8ff;
 font-size: 1.5em;
  }
 <!--
