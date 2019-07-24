@@ -75,8 +75,10 @@ body::before {
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>  
+
 </head>
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
 <body>
 
