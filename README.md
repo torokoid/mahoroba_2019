@@ -80,12 +80,12 @@ body::before {
 
 <body>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2017/08/06 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2019/08/09 !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2017</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2019</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h3>2017年の記録</h3>
+<h3>2019年の記録</h3>
 
 
 
@@ -114,11 +114,11 @@ body::before {
 <img src="https://torokoid.github.io/mahoroba/468.JPG" alt="" width="318" height="229" border="0" /><br/>
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><section>
+<!--<br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
-       </section><br>
+       </section><br>-->
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/05/25 S.Hada
+ Copyright 2019/07/24 S.Hada
  </footer>
