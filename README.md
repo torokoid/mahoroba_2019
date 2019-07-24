@@ -85,17 +85,18 @@ body::before {
 <p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2019</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h3>2019年の記録</h3>
+<h3>2019開催通知</h3>
 
 
+<a href="20190724_001.JPG" data-lightbox="abc"><img src="20190724_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190724_002.JPG" data-lightbox="abc"><img src="20190724_002.JPG" alt="サンプル画像" width="900" /></a>
+<h3>むーさん下見</h3>
+<a href="20190713_001.JPG" class="preview"><img src="20190713_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190713_002.JPG" class="preview"><img src="20190713_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190713_003.JPG" class="preview"><img src="20190713_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190713_004.JPG" class="preview"><img src="20190713_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190713_005.JPG" class="preview"><img src="20190713_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<ul>
-<li><a href="20190713_001.JPG" class="preview"><img src="20190713_001.JPG" alt="サンプル画像" width="900" /></a></li>
-<li><a href="20190713_002.JPG" class="preview"><img src="20190713_002.JPG" alt="サンプル画像" width="900" /></a></li>
-<li><a href="20190713_003.JPG" class="preview"><img src="20190713_003.JPG" alt="サンプル画像" width="900" /></a></li>
-<li><a href="20190713_004.JPG" class="preview"><img src="20190713_004.JPG" alt="サンプル画像" width="900" /></a></li>
-<li><a href="20190713_005.JPG" class="preview"><img src="20190713_005.JPG" alt="サンプル画像" width="900" /></a></li>
-</ul>
 
 <!--
 <img src="https://torokoid.github.io/mahoroba/358.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
