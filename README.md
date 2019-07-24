@@ -90,16 +90,11 @@ body::before {
 
 
 <ul>
-<li><a href="/mahoroba/358.JPG" class="preview"><img src="/mahoroba/358.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/392.JPG" class="preview"><img src="/mahoroba/392.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/409.JPG" class="preview"><img src="/mahoroba/409.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/427.JPG" class="preview"><img src="/mahoroba/427.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/433.JPG" class="preview"><img src="/mahoroba/433.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/454.JPG" class="preview"><img src="/mahoroba/454.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/461.JPG" class="preview"><img src="/mahoroba/461.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/468.JPG" class="preview"><img src="/mahoroba/468.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/002.JPG" class="preview"><img src="/mahoroba/002.JPG" alt="サンプル画像" width="450" /></a></li>
-<li><a href="/mahoroba/360.JPG" class="preview"><img src="/mahoroba/360.JPG" alt="サンプル画像" width="240" /></a></li>
+<li><a href="20190713_001.JPG" class="preview"><img src="20190713_001.JPG" alt="サンプル画像" width="900" /></a></li>
+<li><a href="20190713_002.JPG" class="preview"><img src="20190713_002.JPG" alt="サンプル画像" width="900" /></a></li>
+<li><a href="20190713_003.JPG" class="preview"><img src="20190713_003.JPG" alt="サンプル画像" width="900" /></a></li>
+<li><a href="20190713_004.JPG" class="preview"><img src="20190713_004.JPG" alt="サンプル画像" width="900" /></a></li>
+<li><a href="20190713_005.JPG" class="preview"><img src="20190713_005.JPG" alt="サンプル画像" width="900" /></a></li>
 </ul>
 
 <!--
