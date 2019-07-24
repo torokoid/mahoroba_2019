@@ -2,7 +2,7 @@
  <html lang="ja">
  <head>
  <meta charset="UTF-8">
- <title>まほろば_2017</title>
+ <title>まほろば_2019</title>
 
 <style type="text/css">
  p {
@@ -66,7 +66,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mahoroba/001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mahoroba_2019/20190713_005.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
