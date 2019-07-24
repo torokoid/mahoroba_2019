@@ -121,5 +121,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- Copyright 2019/07/24 S.Hada
+ <p>Copyright 2019/07/24 S.Hada</p>
  </footer>
