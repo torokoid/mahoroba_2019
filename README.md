@@ -88,10 +88,9 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2019開催通知</h3>
-
-
 <a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20190724_002.png" data-lightbox="abc"><img src="20190724_002.png" alt="サンプル画像" width="900" /></a>
+<br><br>
 <h3>むーさん下見</h3>
 <a href="20190713_001.JPG" class="preview"><img src="20190713_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190713_002.JPG" class="preview"><img src="20190713_002.JPG" alt="サンプル画像" width="900" /></a>
