@@ -117,7 +117,7 @@ body::before {
 
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
-<script src="https://torokoid.github.io/shiba/my.js"></script> 
+<script src="https://torokoid.github.io/shiba/my.js"></script>
 
 <!-- フッタ -->
  <footer>
