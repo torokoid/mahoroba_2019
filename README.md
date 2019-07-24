@@ -87,11 +87,11 @@ body::before {
 <p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2019</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h3>2019開催通知</h3>
+<p>2019開催通知</p>
 <a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20190724_002.png" data-lightbox="abc"><img src="20190724_002.png" alt="サンプル画像" width="900" /></a>
 <br><br>
-<h3>むーさん下見</h3>
+<p>むーさん下見</p>
 <a href="20190713_001.JPG" class="preview"><img src="20190713_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190713_002.JPG" class="preview"><img src="20190713_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190713_003.JPG" class="preview"><img src="20190713_003.JPG" alt="サンプル画像" width="900" /></a>
