@@ -102,10 +102,10 @@ body::before {
 }
   
 </style>
-<!--
+
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
-<script type="text/javascript" src="/mahoroba_2017/popup.js"></script>-->
+<script type="text/javascript" src="/mahoroba_2017/popup.js"></script>
 <!--
 <script>
 	//■page topボタン
@@ -143,7 +143,7 @@ topBtn.click(function(){
 
 </head>
 <!--
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">--
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">-->
 
 <body>
 
@@ -190,8 +190,8 @@ topBtn.click(function(){
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>-->
-
-<p id="pageTop"><a href="#"><i class="fa fa-chevron-up"></i></a></p>
+<!--
+<p id="pageTop"><a href="#"><i class="fa fa-chevron-up"></i></a></p>-->
 
 <!-- フッタ -->
  <footer>
