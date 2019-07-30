@@ -9,6 +9,7 @@
 color: #f0f8ff;
 font-size: 1.5em;
  }
+
 <!--
  .red {color:#ff0000;}
  .grey {color:#ffffff; background:#999999;}
@@ -70,18 +71,72 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
   
+//■page topボタン
+
+$(function(){
+var topBtn=$('#pageTop');
+topBtn.hide();
+
+//◇ボタンの表示設定
+$(window).scroll(function(){
+  if($(this).scrollTop()>80){
+
+    //---- 画面を80pxスクロールしたら、ボタンを表示する
+    topBtn.fadeIn();
+
+  }else{
+
+    //---- 画面が80pxより上なら、ボタンを表示しない
+    topBtn.fadeOut();
+
+  } 
+});
+
+// ◇ボタンをクリックしたら、スクロールして上に戻る
+topBtn.click(function(){
+  $('body,html').animate({
+  scrollTop: 0},500);
+  return false;
+});
+});
+  
+#pageTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+#pageTop i {
+  padding-top: 6px
+}
+
+#pageTop a {
+  display: block;
+  z-index: 999;
+  padding: 8px 0 0 8px;
+  border-radius: 30px;
+  width: 35px;
+  height: 35px;
+  background-color: #9FD6D2;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+
+#pageTop a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+  
 </style>
 
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>-->
 
-<!--
-<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script>
-<script charset="utf-8" src="https://platform.twitter.com/js/button.509719336ca39171c37a321231ccaf83.js"></script>
-<script src="https://www.google.com/cse/static/element/e1b7867e793369c8/cse_element__ja.js?usqp=CAI%3D" type="text/javascript"></script>
-<link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/element/e1b7867e793369c8/default+ja.css">
-<link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/style/look/v3/default.css">-->
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 </head>
 
@@ -122,12 +177,7 @@ body::before {
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>-->
 
-<!--
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124371163-1"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="https://www.jst.go.jp/common/js/parts.js"></script>
-<script src="https://www.jst.go.jp/common/js/common.js"></script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124371163-1"></script>-->
+
 
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
@@ -137,8 +187,7 @@ body::before {
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>-->
 
-<!--
-<p id="page-top" style="display: block;"><a href="#wrapper"></a></p>-->
+<p id="pageTop"><a href="#"><i class="fa fa-chevron-up"></i></a></p>
 
 <!-- フッタ -->
  <footer>
