@@ -71,16 +71,17 @@ body::before {
   }
   
 </style>
-<!--
+
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>-->
 
+<!--
 <script async="" src="//cse.google.com/adsense/search/async-ads.js"></script>
 <script charset="utf-8" src="https://platform.twitter.com/js/button.509719336ca39171c37a321231ccaf83.js"></script>
 <script src="https://www.google.com/cse/static/element/e1b7867e793369c8/cse_element__ja.js?usqp=CAI%3D" type="text/javascript"></script>
 <link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/element/e1b7867e793369c8/default+ja.css">
-<link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/style/look/v3/default.css">
+<link type="text/css" rel="stylesheet" href="https://www.google.com/cse/static/style/look/v3/default.css">-->
 
 </head>
 
@@ -121,17 +122,17 @@ body::before {
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>-->
 
-
+<!--
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124371163-1"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="https://www.jst.go.jp/common/js/parts.js"></script>
 <script src="https://www.jst.go.jp/common/js/common.js"></script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124371163-1"></script>-->
 
-<!--
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
-<!--
+
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>-->
