@@ -107,6 +107,37 @@ body::before {
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>-->
 
+<script>
+	//■page topボタン
+
+$(function(){
+var topBtn=$('#pageTop');
+topBtn.hide();
+
+//◇ボタンの表示設定
+$(window).scroll(function(){
+  if($(this).scrollTop()>80){
+
+    //---- 画面を80pxスクロールしたら、ボタンを表示する
+    topBtn.fadeIn();
+
+  }else{
+
+    //---- 画面が80pxより上なら、ボタンを表示しない
+    topBtn.fadeOut();
+
+  } 
+});
+
+// ◇ボタンをクリックしたら、スクロールして上に戻る
+topBtn.click(function(){
+  $('body,html').animate({
+  scrollTop: 0},500);
+  return false;
+});
+});
+</script>
+
 <!-- jQuery -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
@@ -149,36 +180,7 @@ body::before {
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>-->
 
-<script>
-	//■page topボタン
 
-$(function(){
-var topBtn=$('#pageTop');
-topBtn.hide();
-
-//◇ボタンの表示設定
-$(window).scroll(function(){
-  if($(this).scrollTop()>80){
-
-    //---- 画面を80pxスクロールしたら、ボタンを表示する
-    topBtn.fadeIn();
-
-  }else{
-
-    //---- 画面が80pxより上なら、ボタンを表示しない
-    topBtn.fadeOut();
-
-  } 
-});
-
-// ◇ボタンをクリックしたら、スクロールして上に戻る
-topBtn.click(function(){
-  $('body,html').animate({
-  scrollTop: 0},500);
-  return false;
-});
-});
-</script>
 
 
 <!--
