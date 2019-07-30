@@ -137,6 +137,8 @@ body::before {
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
+<p id="page-top" style="display: block;"><a href="#wrapper"></a></p>
+
 <!-- フッタ -->
  <footer>
  <p>Copyright 2019/07/24 S.Hada</p>
