@@ -106,29 +106,29 @@ body::before {
 <link rel="stylesheet" href="../style.css/" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>-->
-
+<!--
 <script>
 	//■page topボタン
-
+<!--
 $(function(){
 var topBtn=$('#pageTop');
 topBtn.hide();
-
+<!--
 //◇ボタンの表示設定
 $(window).scroll(function(){
   if($(this).scrollTop()>80){
 
     //---- 画面を80pxスクロールしたら、ボタンを表示する
     topBtn.fadeIn();
-
+<!--
   }else{
 
     //---- 画面が80pxより上なら、ボタンを表示しない
     topBtn.fadeOut();
-
+<!--
   } 
 });
-
+<!--
 // ◇ボタンをクリックしたら、スクロールして上に戻る
 topBtn.click(function(){
   $('body,html').animate({
@@ -136,14 +136,14 @@ topBtn.click(function(){
   return false;
 });
 });
-</script>
+</script>-->
 
 <!-- jQuery -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 </head>
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+<!--
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">--
 
 <body>
 
@@ -183,10 +183,10 @@ topBtn.click(function(){
 
 
 
-<!--
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>-->
-<!--
+
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>-->
