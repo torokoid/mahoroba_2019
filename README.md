@@ -76,6 +76,10 @@ body::before {
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>  
 <script type="text/javascript" src="/mahoroba_2017/popup.js"></script>  
 
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script>
+<script charset="utf-8" src="https://platform.twitter.com/js/button.509719336ca39171c37a321231ccaf83.js"></script>
+<script src="https://www.google.com/cse/static/element/e1b7867e793369c8/cse_element__ja.js?usqp=CAI%3D" type="text/javascript"></script>
+
 </head>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
