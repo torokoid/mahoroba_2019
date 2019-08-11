@@ -170,17 +170,6 @@ body::before {
 <a href="20190713_005.JPG" data-lightbox="abc"><img src="20190713_005.JPG" alt="サンプル画像" width="200" /></a>
 
 
-<!--
-<img src="https://torokoid.github.io/mahoroba/358.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/360.JPG" alt="" width="229" height="318" border="0" />
-<img src="https://torokoid.github.io/mahoroba/392.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/409.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/427.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/433.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/454.JPG" alt="" width="318" height="229" border="0" />
-<img src="https://torokoid.github.io/mahoroba/461.JPG" alt="" width="229" height="318" border="0" />
-<img src="https://torokoid.github.io/mahoroba/468.JPG" alt="" width="318" height="229" border="0" /><br/>
--->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--<br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
