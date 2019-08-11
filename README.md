@@ -170,7 +170,7 @@ body::before {
 <a href="20190713_005.JPG" data-lightbox="abc"><img src="20190713_005.JPG" alt="サンプル画像" width="400" /></a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--<br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/B8ahZttFFTL" target="_blank">鮎パ＠まほろば　2017/08/06、PassWD:なし</a>
        </section><br>-->
