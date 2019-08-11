@@ -153,8 +153,8 @@ body::before {
 <a href="20190809_012.JPG" data-lightbox="abc"><img src="20190809_012.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_013.JPG" data-lightbox="abc"><img src="20190809_013.JPG" alt="サンプル画像" width="400" /></a>
 
-<a href="https://youtu.be/6kKGXzVJ5ds" target="_blank"><img src=“20190809_099.JPG" alt=“むーさん" width=“900" /></a>
-<a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190809_099.JPG" alt="並木さん" width="450" /></a>
+<a href="https://youtu.be/6kKGXzVJ5ds" target="_blank"><img src=“20190809_099.JPG" alt="むーさん" width=“900" /></a>
+
 
 <p>2019開催通知 & むーさん下見</p>
 <a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="400" /></a>
