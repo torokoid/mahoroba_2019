@@ -90,16 +90,31 @@ body::before {
 <p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2019</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+<p>スマホ</p>
+<a href="20190809_014.JPG" data-lightbox="abc"><img src="20190809_014.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_016.JPG" data-lightbox="abc"><img src="20190809_016.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_019.JPG" data-lightbox="abc"><img src="20190809_019.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_020.JPG" data-lightbox="abc"><img src="20190809_020.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_025.JPG" data-lightbox="abc"><img src="20190809_025.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_027.JPG" data-lightbox="abc"><img src="20190809_027.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_028.JPG" data-lightbox="abc"><img src="20190809_028.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_030.JPG" data-lightbox="abc"><img src="20190809_030.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_033.JPG" data-lightbox="abc"><img src="20190809_033.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_034.JPG" data-lightbox="abc"><img src="20190809_034.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_035.JPG" data-lightbox="abc"><img src="20190809_035.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_036.JPG" data-lightbox="abc"><img src="20190809_036.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_037.JPG" data-lightbox="abc"><img src="20190809_037.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190809_038.JPG" data-lightbox="abc"><img src="20190809_038.JPG" alt="サンプル画像" width="400" /></a>
+
 <p>準備</p>
 <a href="20190809_002.JPG" data-lightbox="abc"><img src="20190809_002.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_003.JPG" data-lightbox="abc"><img src="20190809_003.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_004.JPG" data-lightbox="abc"><img src="20190809_004.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_005.JPG" data-lightbox="abc"><img src="20190809_005.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_006.JPG" data-lightbox="abc"><img src="20190809_006.JPG" alt="サンプル画像" width="400" /></a>
-
 <a href="20190809_008.JPG" data-lightbox="abc"><img src="20190809_008.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_009.JPG" data-lightbox="abc"><img src="20190809_009.JPG" alt="サンプル画像" width="400" /></a>
-
 <a href="20190809_011.JPG" data-lightbox="abc"><img src="20190809_011.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_012.JPG" data-lightbox="abc"><img src="20190809_012.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_013.JPG" data-lightbox="abc"><img src="20190809_013.JPG" alt="サンプル画像" width="400" /></a>
