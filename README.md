@@ -123,7 +123,8 @@ body::before {
 <a href="20190809_068.JPG" data-lightbox="abc"><img src="20190809_068.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_069.JPG" data-lightbox="abc"><img src="20190809_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_067.JPG" data-lightbox="abc"><img src="20190809_067.JPG" alt="サンプル画像" width="900" /></a>
-<br>
+
+<br><br>
 <p>スマホ</p>
 <a href="20190809_014.JPG" data-lightbox="abc"><img src="20190809_014.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_016.JPG" data-lightbox="abc"><img src="20190809_016.JPG" alt="サンプル画像" width="400" /></a>
@@ -141,7 +142,7 @@ body::before {
 <a href="20190809_038.JPG" data-lightbox="abc"><img src="20190809_038.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190810_002.JPG" data-lightbox="abc"><img src="20190810_002.JPG" alt="サンプル画像" width="400" /></a>
 
-<br>
+<br><br>
 <p>準備</p>
 <a href="20190809_002.JPG" data-lightbox="abc"><img src="20190809_002.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_003.JPG" data-lightbox="abc"><img src="20190809_003.JPG" alt="サンプル画像" width="400" /></a>
@@ -153,11 +154,11 @@ body::before {
 <a href="20190809_012.JPG" data-lightbox="abc"><img src="20190809_012.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190809_013.JPG" data-lightbox="abc"><img src="20190809_013.JPG" alt="サンプル画像" width="400" /></a>
 
-<br>
+<br><br>
 <p>動画</p>
 <a href="https://youtu.be/6kKGXzVJ5ds" target="_blank"><img src="20190809_099.JPG" alt="むーさん" width="900" /></a>
 
-<br>
+<br><br>
 <p>2019開催通知 & むーさん下見</p>
 <a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="400" /></a>
 <a href="20190724_002.png" data-lightbox="abc"><img src="20190724_002.png" alt="サンプル画像" width="400" /></a>
