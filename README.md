@@ -91,8 +91,6 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<a href="20190809_068.JPG" data-lightbox="abc"><img src="20190809_068.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190809_069.JPG" data-lightbox="abc"><img src="20190809_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_039.JPG" data-lightbox="abc"><img src="20190809_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_040.JPG" data-lightbox="abc"><img src="20190809_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_041.JPG" data-lightbox="abc"><img src="20190809_041.JPG" alt="サンプル画像" width="900" /></a>
@@ -121,6 +119,8 @@ body::before {
 <a href="20190809_064.JPG" data-lightbox="abc"><img src="20190809_064.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_065.JPG" data-lightbox="abc"><img src="20190809_065.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_066.JPG" data-lightbox="abc"><img src="20190809_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190809_068.JPG" data-lightbox="abc"><img src="20190809_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190809_069.JPG" data-lightbox="abc"><img src="20190809_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_067.JPG" data-lightbox="abc"><img src="20190809_067.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>スマホ</p>
