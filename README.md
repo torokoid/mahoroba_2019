@@ -160,14 +160,14 @@ body::before {
 
 <br><br>
 <p>2019開催通知 & むーさん下見</p>
-<a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="400" /></a>
-<a href="20190724_002.png" data-lightbox="abc"><img src="20190724_002.png" alt="サンプル画像" width="400" /></a>
+<a href="20190724_001.png" data-lightbox="abc"><img src="20190724_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20190724_002.png" data-lightbox="abc"><img src="20190724_002.png" alt="サンプル画像" width="900" /></a>
 
-<a href="20190713_001.JPG" data-lightbox="abc"><img src="20190713_001.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190713_002.JPG" data-lightbox="abc"><img src="20190713_002.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190713_003.JPG" data-lightbox="abc"><img src="20190713_003.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190713_004.JPG" data-lightbox="abc"><img src="20190713_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190713_005.JPG" data-lightbox="abc"><img src="20190713_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190713_001.JPG" data-lightbox="abc"><img src="20190713_001.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190713_002.JPG" data-lightbox="abc"><img src="20190713_002.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190713_003.JPG" data-lightbox="abc"><img src="20190713_003.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190713_004.JPG" data-lightbox="abc"><img src="20190713_004.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190713_005.JPG" data-lightbox="abc"><img src="20190713_005.JPG" alt="サンプル画像" width="400" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
