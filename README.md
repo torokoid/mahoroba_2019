@@ -120,12 +120,12 @@ body::before {
 <a href="20190809_064.JPG" data-lightbox="abc"><img src="20190809_064.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_065.JPG" data-lightbox="abc"><img src="20190809_065.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_066.JPG" data-lightbox="abc"><img src="20190809_066.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190809_068.JPG" data-lightbox="abc"><img src="20190809_068.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190809_069.JPG" data-lightbox="abc"><img src="20190809_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_067.JPG" data-lightbox="abc"><img src="20190809_067.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 <p>す〜さんカメラ</p>
+<a href="20190809_068.JPG" data-lightbox="abc"><img src="20190809_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190809_069.JPG" data-lightbox="abc"><img src="20190809_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_080.JPG" data-lightbox="abc"><img src="20190809_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_081.JPG" data-lightbox="abc"><img src="20190809_081.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_082.JPG" data-lightbox="abc"><img src="20190809_082.JPG" alt="サンプル画像" width="900" /></a>
