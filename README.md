@@ -149,7 +149,7 @@ body::before {
 <a href="20190809_101.JPG" data-lightbox="abc"><img src="20190809_101.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<p>す〜さんちびデジカメ</p>
+<p>す〜さん、ちびデジカメ</p>
 <a href="20190809_102.JPG" data-lightbox="abc"><img src="20190809_102.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_103.JPG" data-lightbox="abc"><img src="20190809_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190809_104.JPG" data-lightbox="abc"><img src="20190809_104.JPG" alt="サンプル画像" width="900" /></a>
